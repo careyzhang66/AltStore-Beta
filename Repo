@@ -1,3 +1,4 @@
+  {
   "name": "BETAs Source",
   "identifier": "com.altstore.beta.repo",
   "apps": [
@@ -97,26 +98,8 @@
 		"https://static.appdb.to/images/cydia-1900000487-iphone-1.png",
 		"https://static.appdb.to/images/cydia-1900000487-iphone-2.png"
 	]
-    },
-    {
-      "name": "Spotify ++",
-      "bundleIdentifier": "com.spotify.client",
-      "developerName": "iJulioVerne",
-      "subtitle": "Tweaked version of Spotify",
-      "version": "8.5.50",
-      "versionDate": "2020-03-25",
-      "versionDescription": "Bug fixes and UI Improvements",
-      "downloadURL": "http://srv10.racaty.com:182/d/rqfl763x6xjz7x5io2k4b3cv234hf5msk3aaf7ttdh6btmfiuzdjnuflz3aqrfntbtxnok5i/Spotify%20v8.5.50_100a.ipa",
-      "localizedDescription": "Description",
-      "iconURL": "https://static.appdb.to/images/cydia-1900000042-icon.png",
-      "tintColor": "1ed760",
-      "size": 49400,
-      "screenshotURLs": [
-        "https://static.appdb.to/images/cydia-1900000042-iphone-0.png",
-        "https://static.appdb.to/images/cydia-1900000042-iphone-1.png",
-        "https://static.appdb.to/images/cydia-1900000042-iphone-2.png",
-	"https://static.appdb.to/images/cydia-1900000042-iphone-3.png"
-      ],
+},
+  ],
   "userInfo": {
 
   }
