@@ -15,6 +15,7 @@
       "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
       "tintColor": "8A28F7",
       "size": 17631726,
+      "beta": true,
       "permissions": [
         {
           "type": "photos",
