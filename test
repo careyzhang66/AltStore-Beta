@@ -1,0 +1,429 @@
+{
+	"name": "AltStore Beta Source",
+	"identifier": "com.altstore.beta.repo",
+	"apps": [
+		{
+			"name": "iNDS",
+			"bundleIdentifier": "net.nerd.iNDS",
+			"developerName": "iNDS Team",
+			"subtitle": "Revival of the Nintendo DS emulator for iOS.",
+			"version": "1.10.7",
+			"versionDate": "2020-02-10T14:30:00-07:00",
+			"versionDescription": "Version 1.10.7 adds better support for Dark Mode on iOS, thus fixing #129 and #148. Additionally, landscape mode support for modern iPhones (after iPhone X) was improved, fixing #153. Additionally, a bug was fixed in which the status bar would appear in-game and not be dismissable.",
+			"downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+			"localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time, so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
+			"iconURL": "https://quarksources.imfast.io/files/iNDS/assets/icon.png",
+			"tintColor": "fc2125",
+			"size": 857669,
+			"permissions": [
+				{
+				"type": "photos",
+				"usageDescription": "Allows iNDS to use images from your Photo Library as game artwork."
+				}
+			],
+			"screenshotURLs": [
+				"https://quarksources.imfast.io/files/iNDS/assets/image0.png",
+				"https://quarksources.imfast.io/files/iNDS/assets/image1.png",
+				"https://quarksources.imfast.io/files/iNDS/assets/image2.png"
+			]
+		},
+		{
+			"name": "unc0ver",
+			"bundleIdentifier": "science.xnu.undecimus",
+			"developerName": "Pwn20wnd & Sam Bingner",
+			"subtitle": "The most advanced jailbreak tool.",
+			"version": "4.3.1",
+			"versionDate": "2020-03-08T14:30:00-07:00",
+			"versionDescription": "Made the following changes for the substitute code substitutor:\n\n• Bumped version to 4.3.1 due to a github bug causing an older file to be temporarily available\n• Add support for rebooting the userspace for the first time in a jailbreak\n• Add support for injecting to the entire userspace\n• Add support for looking up or registering services from the sandbox with the cy: prefix for developers\n• Reboot the userspace after jailbreaking\n• Make major design changes to preserve stock system performance\n• Fix random reboots, freezes, memory issues and any known problem that affected system services or apps\n• Fix persistent software update blocker on iOS 13 (Works in the jailed state too)\n• Fix a design problem that affected the Succession restore tool\n• Automatically re-enable software updates when restoring RootFS",
+			"downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.3.1/Undecimus-v4.3.1.ipa",
+			"localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatibility:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStability:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
+			"iconURL": "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+			"tintColor": "101216",
+			"size": 35483648,
+			"screenshotURLs": [
+				"https://quarksources.imfast.io/files/unc0ver/assets/image0.png",
+				"https://quarksources.imfast.io/files/unc0ver/assets/image1.png"
+			]
+		},
+		{
+      "name": "iTorrent",
+      "bundleIdentifier": "ru.nonamedude.iTorrent",
+      "developerName": "XITRIX",
+      "subtitle": "Straightforward iOS torrent client app",
+      "version": "1.7.4.1",
+      "versionDate": "2020-03-19T14:30:00-07:00",
+      "versionDescription": "Fixed:\n\n• Background mode not work if zero speed limit disabled\n\nWhat's new:\n\n• Added https protocol support for trackers!\n• FTP server replaced by WebDAV, file sharing is now possible through a web browser\n• Added background stop when downloading at zero speed\n• Clicking on a notification now opens a specific window\n• UI improvements",
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/1.7.4Hotfix/iTorrent.ipa",
+      "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• FTP Server (unstable)\n• Select files to download or not\n• Change UI to dark theme\n\nNow supporting these localizations:\n• English\n• Russian",
+      "iconURL": "https://images.opencollective.com/itorrent/0ec0088/logo/256.png",
+      "tintColor": "e32b3c",
+      "size": 20132659,
+      "screenshotURLs": [
+        "https://quarksources.imfast.io/files/iTorrent/assets/image0.png",
+        "https://quarksources.imfast.io/files/iTorrent/assets/image1.png",
+        "https://quarksources.imfast.io/files/iTorrent/assets/image2.png",
+				"https://quarksources.imfast.io/files/iTorrent/assets/image3.png"
+      ]
+    },
+		{
+      "name": "GBA4iOS",
+      "bundleIdentifier": "com.rileytestut.GBA4iOS",
+      "developerName": "Riley Testut",
+      "subtitle": "Game Boy games in your pocket.",
+      "version": "2.1",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "Initial AltStore release!",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/demo/GBA4iOS.ipa",
+      "localizedDescription": "Classic Gaming, Meet iOS.\n\nWhile iPhone and iOS have brought a new era of gaming upon us, there will always be room in our hearts for those classic games from decades ago. Unfortunately, there has been no easy way for people to play these games whenever they so desired...that is, until now. GBA4iOS was made for one purpose and one purpose only: to help everyone relive their favorite games from their past. Now, every where you take your iPhone, iPad, or iPod Touch, you can bring and play your classic games with you, giving you practically endless hours of entertainment!\n\nSo that's great and all, but what features does GBA4iOS actually have? Far too many to list in one App Store description, but here are some of the biggest:\n\n• Multiplayer (iPhone 5 or newer, iPad 4 or newer). GBA4iOS allows you to link with other players nearby and play with them, allowing you to unlock or experience certain events in games that are unavailable to just one player! Plus, nothing is cooler than playing games with your friends.\n\n• Save States. Ever get frustrated when a game requires you to save only at certain points? Well be frustrated no longer, GBA4iOS fully supports Save States, allowing you to save anywhere in the game and resume right from that point later. Even better, you can protect certain save states so you never accidentally overwrite them (and as everyone knows losing game data is one of the worst things in the world).\n\n• Cheat Codes. Sometimes games are just too hard, and you need a little boost to help defeat it. GBA4iOS allows you to input and use GameShark, Action Replay, Code Breaker, and Game Genie codes as you see fit. Don't worry, we won't judge!\n\n• Fast Forward (iPhone 4s or newer, iPad 2 or newer, iPod Touch 5th Gen). Don't you wish there was a way to speed up long cutscenes in games, or to reduce the time doing boring tasks in the game? Well, now there is! GBA4iOS allows you to \"Fast Forward\" through slow parts of the game, allowing you to get back to the fun even quicker.\n\n• Customizable Controller Skins. Want to change the look of the controller to something more personal? No worries, you can download a multitude of new controller skins from within the app, or download almost countless more from the web! You'll definitely be able to find a controller skin you like.\n\n• Dropbox Sync. Have multiple devices, or worried something will happen to your games? Dropbox Sync solves both these issues! When enabled, GBA4iOS will sync your game saves, save states, and cheat codes to Dropbox, keeping any and all your devices up to date with your latest changes. Plus, this means your game data is always backed up in the cloud, so if something happens to your device, your data is safe.\n\n• MFi Controller Support. Sometimes, touchscreen buttons just aren't good enough for the level of precision needed by some games. Luckily, GBA4iOS supports MFi Controllers, allowing you to connect and use physical controllers with your games! Now you can beat that final boss without a sweat.\n\nAll this and more ensures that GBA4iOS will give you the best portable gaming experience, hands down. So what are you waiting for, download GBA4iOS now and enjoy reliving your favorite classic games immediately!",
+      "iconURL": "https://iosninja.io/img/ipas/gba4ios.png",
+      "tintColor": "78209d",
+      "size": 7924507,
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/77479189-8cc25480-6ddc-11ea-98aa-41eabe05c949.png",
+        "https://user-images.githubusercontent.com/705880/77479187-8c29be00-6ddc-11ea-92ee-d4e2de14d781.png",
+        "https://user-images.githubusercontent.com/705880/77479186-8b912780-6ddc-11ea-9303-32c615f2349f.png",
+        "https://user-images.githubusercontent.com/705880/77479180-892ecd80-6ddc-11ea-8705-400257988a2b.png"
+      ]
+    },
+		{
+      "name": "Provenance",
+      "bundleIdentifier": "com.provenance-emu.provenance",
+      "developerName": "Provenance Emu",
+      "subtitle": "iOS multi-emulator frontend, supports a wide variety of console systems.",
+      "version": "1.4",
+      "versionDate": "2018-03-13T14:30:00-07:00",
+      "versionDescription": "New Features:\n\n• PlayStation core\n• Pokémon mini core\n• Virtual Boy core\n• Atari 7800 & Lynx core\n• Neo Geo Pocket / Neo Geo Pocket Color core\n• PC Engine / TurboGrafx-16 (CD) core\n• SuperGrafx core\n• PC-FX core\n• WonderSwan core\n• CRT Shader\n\nImprovements\n\n•Importer improvements (MD5 matching and performance improvements)\n\nHuge thanks to @JoeMatt, @leolobato, @braindx and everyone else who contributed.",
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/1.4/Provenance-Release-1.4.ipa",
+      "localizedDescription": "Systems Supported:\n\n• Atari\n  - 2600\n  - 5200\n  - 7800\n  - Lynx\n  - Jaguar\n• Bandai\n  - WonderSwan / WonderSwan Color\n• NEC\n  - PC Engine / TurboGrafx-16 (PCE/TG16)\n  - PC Engine Super CD-ROM² System / TurboGrafx-CD\n  - PC Engine SuperGrafx\n  - PC-FX\n• Nintendo\n  - Nintendo Entertainment System / Famicom (NES/FC)\n  - Famicom Disk System\n  - Super Nintendo Entertainment System / Super Famicom (SNES/SFC)\n  - Game Boy / Game Boy Color (GB/GBC)\n  - Virtual Boy\n  - Game Boy Advance (GBA)\n  - Pokémon mini\n• Sega\n  - SG-1000\n  - Master System\n  - Genesis / Mega Drive\n  - Game Gear\n  - CD / MegaCD\n  - 32X\n• SNK\n  - Neo Geo Pocket / Neo Geo Pocket Color\n• Sony\n  - PlayStation (PSX/PS1)",
+      "iconURL": "https://github.com/Provenance-Emu/Provenance/raw/master/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/Icon-83.5%402x.png",
+      "tintColor": "1c7cf3",
+      "size": 23184304,
+			"permissions": [
+				{
+				"type": "photos",
+				"usageDescription": "Used for album artwork. Provenance can set custom artworks from your photos and save screenshots to your photos library."
+				}
+			],
+      "screenshotURLs": [
+        "https://quarksources.imfast.io/files/Provenance/assets/image0.png",
+        "https://quarksources.imfast.io/files/Provenance/assets/image1.png",
+        "https://quarksources.imfast.io/files/Provenance/assets/image2.png"
+      ]
+    },
+		{
+      "name": "Provenance",
+      "bundleIdentifier": "net.hollr.Provenance4",
+      "developerName": "Provenance Emu",
+      "subtitle": "Now with N64 support!",
+      "version": "1.5",
+      "versionDate": "2019-02-21T14:30:00-07:00",
+      "versionDescription": "New Features:\n\n• N64 Core\n• Minor UI Improvements",
+      "downloadURL": "https://quarksources.imfast.io/files/Provenance-Beta/Provenance-Beta.ipa",
+      "localizedDescription": "Systems Supported:\n\n• Atari\n  - 2600\n  - 5200\n  - 7800\n  - Lynx\n  - Jaguar\n• Bandai\n  - WonderSwan / WonderSwan Color\n• NEC\n  - PC Engine / TurboGrafx-16 (PCE/TG16)\n  - PC Engine Super CD-ROM² System / TurboGrafx-CD\n  - PC Engine SuperGrafx\n  - PC-FX\n• Nintendo\n  - Nintendo Entertainment System / Famicom (NES/FC)\n  - Famicom Disk System\n  - Super Nintendo Entertainment System / Super Famicom (SNES/SFC)\n  - Game Boy / Game Boy Color (GB/GBC)\n  - Virtual Boy\n  - Nintendo 64 (N64)\n  - Game Boy Advance (GBA)\n  - Pokémon mini\n• Sega\n  - SG-1000\n  - Master System\n  - Genesis / Mega Drive\n  - Game Gear\n  - CD / MegaCD\n  - 32X\n• SNK\n  - Neo Geo Pocket / Neo Geo Pocket Color\n• Sony\n  - PlayStation (PSX/PS1)",
+      "iconURL": "https://github.com/Provenance-Emu/Provenance/raw/master/Provenance/Resources/Assets.xcassets/AppIcon.appiconset/Icon-83.5%402x.png",
+      "tintColor": "1c7cf3",
+      "size": 47228179,
+			"beta": true,
+			"permissions": [
+				{
+				"type": "photos",
+				"usageDescription": "Used for album artwork. Provenance can set custom artworks from your photos and save screenshots to your photos library."
+				}
+			],
+      "screenshotURLs": [
+        "https://quarksources.imfast.io/files/Provenance/assets/image0.png",
+        "https://quarksources.imfast.io/files/Provenance/assets/image1.png",
+        "https://quarksources.imfast.io/files/Provenance/assets/image2.png"
+      ]
+    },
+		{
+      "name": "PPSSPP",
+      "bundleIdentifier": "org.ppsspp.ppsspp",
+      "developerName": "PPSSPP Team",
+      "subtitle": "PlayStation Portable Games on iOS.",
+      "version": "1.0",
+      "versionDate": "2020-03-21T14:30:00-07:00",
+      "versionDescription": "Bugs squashed, bugs born.",
+      "downloadURL": "https://build.ppsspp.org/builds/iOS/ppssppbuildbot-org.ppsspp.ppsspp-dev-latest-ios.ipa",
+      "localizedDescription": "PPSSPP allows you to play PSP games on your iOS devices.",
+      "iconURL": "https://github.com/hrydgard/ppsspp/raw/master/ios/assets/Icon-72%403x.png",
+      "tintColor": "21486b",
+      "size": 23184304,
+      "screenshotURLs": [
+
+      ]
+    },
+		{
+      "name": "Dolphin iOS",
+      "bundleIdentifier": "org.dolphin-emu.DolphiniOS",
+      "developerName": "Dolphin Emu Team",
+      "subtitle": "Your favorite GameCube and Wii games, now on iOS.",
+      "version": "1.0",
+      "versionDate": "2019-12-15T14:30:00-07:00",
+      "versionDescription": "Initial Release.",
+      "downloadURL": "https://quarksources.imfast.io/files/DolphiniOS/DolphiniOS.ipa",
+      "localizedDescription": "Basic stuff right now. Very much still a proof of concept on Jailed devices.",
+      "iconURL": "https://quarksources.imfast.io/files/DolphiniOS/assets/icon.png",
+      "tintColor": "40cbff",
+      "size": 18960427,
+			"beta": true,
+      "screenshotURLs": [
+
+      ]
+    }
+	],
+	"news": [
+		{
+      "title": "Provenance now on AltStore!",
+      "identifier": "provenance-now-on-altstore",
+      "caption": "A clean iOS multi-emulator.",
+      "tintColor": "1c7cf3",
+      "imageURL": "https://quarksources.imfast.io/files/Provenance/assets/news.png",
+      "appID": "com.provenance-emu.provenance",
+      "date": "2020-03-25",
+      "notify": false
+    },
+		{
+      "title": "iTorrent Now Available",
+      "identifier": "itorrent-available-download",
+      "caption": "Simple and straightforward torrenting for iOS.",
+      "tintColor": "e32b3c",
+      "imageURL": "https://quarksources.imfast.io/files/iTorrent/assets/news.png",
+      "appID": "ru.nonamedude.iTorrent",
+      "date": "2020-03-24",
+      "notify": false
+    },
+		{
+      "title": "GBA4iOS Now Available",
+      "identifier": "gba4ios-available-download-demo",
+      "caption": "Download today from the Demo source.",
+      "tintColor": "78209d",
+      "imageURL": "https://user-images.githubusercontent.com/705880/77480195-8208bf00-6dde-11ea-95ec-98d4552cb2a0.png",
+      "appID": "com.rileytestut.GBA4iOS",
+      "date": "2020-03-24",
+      "notify": false
+    },
+		{
+			"title": "unc0ver out now!",
+			"identifier": "uncover-available-download",
+			"caption": "The most advanced jailbreak tool yet. Tap to download.",
+			"tintColor": "101216",
+			"imageURL": "https://quarksources.imfast.io/files/unc0ver/assets/news.png",
+			"appID": "science.xnu.undecimus",
+			"date": "2020-02-09",
+			"notify": false
+		},
+    {
+			"name": "Cercube",
+			"bundleIdentifier": "com.google.ios.youtube",
+			"developerName": "Cercube Team",
+			"subtitle": "An elevated YouTube experience.",
+			"version": "5.1.10",
+			"versionDate": "2020-01-19T14:30:00-07:00",
+			"versionDescription": "Bug fixes.",
+			"downloadURL": "https://quarksources.imfast.io/files/Cercube/Cercube.ipa",
+			"localizedDescription": "YouTube is one of the best and most popular video-sharing platform available on the web. It features a range of videos from funny pranks to reviews, gaming content, and daily vlogs by popular influencers.\n\nYouTube also offers an app for iOS which provides a more smooth and enjoyable experience watching videos on your iPhone. Unfortunately, the app lacks a lot of essential features.\n\nCercube is a third-party app for YouTube that brings tons of amazing new features and functionality. Some of these are:\n\n• Download and save videos up to 4k resolution\n• Save videos as audio only\n• View, manage and share all your downloads in Cercube's download manager\n• Block ads\n• Share downloaded videos with other devices via AirDrop\n• Background playback for streamed and downloaded videos\n• Import downloads to Music or Videos\n• Play YouTube videos using Picture-in-Picture mode\n• Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\n• Choose the default tab to open when launching YouTube\n• Stream videos in HD on cellular network\n• Auto-replay videos\n• Hide floating upload button\n• Hide the Trending tab\n• Rewind or forward videos\n• Cercube options are configurable from within YouTube settings\n• Play in high quality on Mobile Data\n\nAnd many more features. All-in-all, Cercube takes your YouTube experience to a whole new level with all the innovative features that it provides.",
+			"iconURL": "https://quarksources.imfast.io/files/Cercube/assets/icon.png",
+			"tintColor": "ff0000",
+			"size": 90156778,
+			"permissions": [
+				{
+					"type": "photos",
+					"usageDescription": "This lets you upload videos you've already created."
+				},
+				{
+					"type": "contacts",
+					"usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+				},
+				{
+					"type": "microphone",
+					"usageDescription": "This lets you include audio with your videos and search using your voice."
+				},
+				{
+					"type": "location",
+					"usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+				}
+			],
+			"screenshotURLs": [
+				"https://quarksources.imfast.io/files/Cercube/assets/image0.png",
+				"https://quarksources.imfast.io/files/Cercube/assets/image1.png",
+				"https://quarksources.imfast.io/files/Cercube/assets/image2.png",
+				"https://quarksources.imfast.io/files/Cercube/assets/image3.png"
+			]
+		},
+    {
+      "name": "Spotify++",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "julioverne",
+      "subtitle": "Spotify with free premium.",
+      "version": "8.4.43",
+      "versionDate": "2018-06-28T14:30:00-07:00",
+      "versionDescription": "Bug fixes.",
+      "downloadURL": "https://quarksources.imfast.io/files/Spotify++/Spotify++.ipa",
+      "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
+      "iconURL": "https://quarksources.imfast.io/files/Spotify++/assets/icon.png",
+      "tintColor": "1ed760",
+      "size": 62287760,
+			"permissions": [
+				{
+					"type": "camera",
+					"usageDescription": "This lets you scan Spotify Codes."
+				},
+				{
+					"type": "photos",
+					"usageDescription": "This lets you save and select images to and from your Photo Library."
+				},
+				{
+					"type": "motion",
+					"usageDescription": "Used to control your tempo for Spotify Running."
+				},
+				{
+					"type": "microphone",
+					"usageDescription": "This lets you control Spotify using your voice."
+				},
+				{
+					"type": "bluetooth",
+					"usageDescription": "This lets you use Spotify with external accessories."
+				},
+				{
+					"type": "faceid",
+					"usageDescription": "This lets you set access restrictions using Face ID."
+				}
+			],
+      "screenshotURLs": [
+        "https://quarksources.imfast.io/files/Spotify++/assets/image0.png",
+				"https://quarksources.imfast.io/files/Spotify++/assets/image1.png",
+				"https://quarksources.imfast.io/files/Spotify++/assets/image2.png"
+      ]
+    },
+    {
+      "name": "PopcornTimeTV",
+      "bundleIdentifier": "com.popcorntimetv.popcorntime.ios",
+      "developerName": "PopcornTimeTV",
+      "subtitle": "Free TV Shows and Movies for iOS, with Butter!",
+      "version": "3.2",
+      "versionDate": "2019-05-06T14:30:00-07:00",
+      "versionDescription": "• Update with changes to memory management\n• Changes in libtorrent settings for faster torrent downloads",
+      "downloadURL": "https://github.com/PopcornTimeTV/PopcornTimeTV/releases/download/3.2.35/PopcornTimeiOS.ipa",
+      "localizedDescription": "PopcornTimeTV uses online torrents to find and stream brand-new movies and TV shows for free.\n\nUseful features include:\n\n• Finds the best torrents automatically\n• Awesome catalog of movies and shows - if it's out there, you can find it\n• No restrictions, subscriptions or ads\n• The ability to select the quality and subtitles\n• Instant streaming or downloads\n• Trakt.tv scrobbling and watchlist syncing\n\nIf you want to know more about how PopcornTime works, visit the FAQ: https://popcorntime.app/faq",
+      "iconURL": "https://github.com/PopcornTimeTV/PopcornTimeTV/raw/master/PopcornTime/Resources/Images.xcassets/AppIcon.appiconset/AppIcon.png",
+      "tintColor": "495bb9",
+      "size": 39855086,
+			"permissions": [
+				{
+					"type": "bluetooth",
+					"usageDescription": "This lets you use Spotify with external accessories."
+				}
+			],
+      "screenshotURLs": [
+        "https://quarksources.imfast.io/files/PopcornTimeTV/assets/image0.png",
+        "https://quarksources.imfast.io/files/PopcornTimeTV/assets/image1.png",
+        "https://quarksources.imfast.io/files/PopcornTimeTV/assets/image2.png",
+				"https://quarksources.imfast.io/files/PopcornTimeTV/assets/image3.png"
+      ]
+    },
+    {
+      "name": "Instagram Rocket",
+      "bundleIdentifier": "com.burbn.instagram",
+      "developerName": "Rocket Team",
+      "subtitle": "An app crafted with love by Instagram users, for Instagram users.",
+      "version": "130.0",
+      "versionDate": "2020-02-25T14:30:00-07:00",
+      "versionDescription": "Minor improvements.",
+      "downloadURL": "https://quarksources.imfast.io/files/Instagram-Rocket/Instagram-Rocket.ipa",
+      "localizedDescription": "The Much-Awaited App\n\nRocket for Instagram could be categorized as an Instagram user’s dream tweak, because it’s going to let you do things that the photo and video sharing social network probably doesn’t want you to do, but nevertheless they’re things you, the user, have wanted for a long time.\n\nIf you’re an Instagram user looking to enhance your abilities within the app and obtain features that no stock user is ever going to get, Rocket for Instagram could be your new best friend.\n\nAmazing Features:\n\n• Anonymous viewer\n• Grid feed layout\n• Save posts to gallery\n• Check friendship status\n• Hide sponsored ads\n• AND More...",
+      "iconURL": "https://iosninja.io/img/ipas/instagram.jpg",
+      "tintColor": "c7309b",
+      "size": 65453731,
+			"permissions": [
+				{
+					"type": "photos",
+					"usageDescription": "This lets you share photos from your library and save photos to your Camera Roll."
+				},
+				{
+					"type": "camera",
+					"usageDescription": "This lets you take photos and record video."
+				},
+				{
+					"type": "microphone",
+					"usageDescription": "This lets you record videos with sound."
+				},
+				{
+					"type": "contacts",
+					"usageDescription": "This helps you and others find friends and more. Your contacts will be synced and securely stored on Instagram's servers."
+				},
+				{
+					"type": "location",
+					"usageDescription": "Instagram uses this to make some features work, personalize content, help people find places and more. You can always change this later in your phone’s settings."
+				},
+				{
+					"type": "faceid",
+					"usageDescription": "This lets you log into Instagram using Apple Face ID."
+				}
+			],
+      "screenshotURLs": [
+        "https://quarksources.imfast.io/files/Instagram-Rocket/assets/image0.png",
+        "https://quarksources.imfast.io/files/Instagram-Rocket/assets/image1.png",
+        "https://quarksources.imfast.io/files/Instagram-Rocket/assets/image2.png",
+				"https://quarksources.imfast.io/files/Instagram-Rocket/assets/image3.png",
+				"https://quarksources.imfast.io/files/Instagram-Rocket/assets/image4.png",
+				"https://quarksources.imfast.io/files/Instagram-Rocket/assets/image5.png",
+				"https://quarksources.imfast.io/files/Instagram-Rocket/assets/image6.png"
+      ]
+    },
+    {
+      "name": "Delta",
+      "bundleIdentifier": "com.rileytestut.Delta.Beta",
+      "developerName": "Riley Testut",
+      "subtitle": "Classic games in your pocket.",
+      "version": "1.2b",
+      "versionDate": "2020-02-11T16:30:00-08:00",
+      "versionDescription": "GENERAL\n• Replaces 3D Touch peek/pop with iOS 13 context menus\n\nCONTROLLER SKINS\n• Brand new Nintendo DS controller skin\n• New Quick Save, Quick Load, and Fast Forward inputs for controller skins\n• Apply video filters with controller skins\n• Assign controller skins to individual games",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/delta-beta.ipa",
+      "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!\n\nDS support currently includes:\n• Playing DS games\n• Save States\n• Hold Button\n\nFeatures I'm still working on:\n• Fast Forward\n• Cheats\n• Controller skin (using placeholder controller skin for now)\n\nPlease report any issues you find to support@altstore.io. Thanks!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+      "tintColor": "8A28F7",
+      "size": 17631726,
+      "permissions": [
+        {
+          "type": "photos",
+          "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/65600448-f7d9be00-df54-11e9-9e3e-d4c31296da94.PNG",
+        "https://user-images.githubusercontent.com/705880/65601942-e5ad4f00-df57-11e9-9255-1463e0296e46.PNG"
+      ,
+        "https://user-images.githubusercontent.com/705880/65813009-f2ae8600-e183-11e9-9eb7-704effc11173.png",
+        "https://user-images.githubusercontent.com/705880/65601117-58b5c600-df56-11e9-9c19-9a5ba5da54cf.PNG"
+      ]
+    },
+    {
+      "name": "Clip",
+      "bundleIdentifier": "com.rileytestut.Clip.Beta",
+      "subtitle": "Manage your clipboard history with ease.",
+      "developerName": "Riley Testut",
+      "version": "1.0b",
+      "versionDate": "2019-01-24T18:20:00-08:00",
+      "versionDescription": "• Disables notification vibration when sound is disabled for notifications.\n\nAssuming all goes well, this should be the final beta before the public launch! Please report any last minute bugs you find to support@altstore.io.",
+      "downloadURL": "https://f000.backblazeb2.com/file/altstore/clip-beta.ipa",
+      "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
+      "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+      "tintColor": "EC008C",
+      "size": 462771,
+      "permissions": [
+        {
+          "type": "background-audio",
+          "usageDescription": "Allows Clip to continuously monitor your clipboard in the background."
+        }
+      ],
+      "screenshotURLs": [
+        "https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png",
+        "https://user-images.githubusercontent.com/705880/70830209-8e738980-1da4-11ea-8b3b-6e5fbc78adff.png"
+      ]
+    }
+	],
+	"userInfo": {
+
+	}
+}
