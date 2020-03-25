@@ -78,6 +78,26 @@
 		"https://static.appdb.to/images/cydia-1900000021-iphone-1.png",
 		"https://static.appdb.to/images/cydia-1900000021-iphone-2.png"
 	]
+   },
+   {
+	"name": "Unc0ver",
+	"bundleIdentifier": "science.xnu.undecimus",
+	"developerName": "Pwn20wnd & Sam Bingner",
+	"subtitle": "The most advanced jailbreak tool.",
+	"version": "4.3.1",
+	"versionDate": "2020-03-08",
+	"versionDescription": "Full-fledged support for A12-A13 devices on iOS 13.0-13.3 with Cydia and system-wide tweak injection",
+	"downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.3.1/Undecimus-v4.3.1.ipa",
+	"localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatible:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStable:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
+	"iconURL": "https://raw.githubusercontent.com/pwn20wndstuff/Undecimus/master/Undecimus/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60%403x.png",
+	"tintColor": "101216",
+	"size": 33800,
+	"beta": false,
+	"screenshotURLs": [
+		"https://static.appdb.to/images/cydia-1900000487-iphone-0.png",
+		"https://static.appdb.to/images/cydia-1900000487-iphone-1.png",
+		"https://static.appdb.to/images/cydia-1900000487-iphone-2.png"
+	]
 },
   ],
   "userInfo": {
