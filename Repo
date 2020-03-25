@@ -1,6 +1,6 @@
 {
-	"name": "Quark Source",
-	"identifier": "com.noahkeck.quarksource.demo",
+	"name": "AltStore Beta Source",
+	"identifier": "com.altstore.beta.repo",
 	"apps": [
 		{
 			"name": "iNDS",
