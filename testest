@@ -3,7 +3,7 @@
   "identifier": "com.altstore.beta.repo",
   "apps": [
      {
-      "name": "Delta",
+      "name": "Delta (Beta)",
       "bundleIdentifier": "com.rileytestut.Delta.Beta",
       "developerName": "Riley Testut",
       "subtitle": "Classic games in your pocket.",
@@ -31,7 +31,7 @@
       ]
     },
     {
-      "name": "Clip",
+      "name": "Clip (Beta)",
       "bundleIdentifier": "com.rileytestut.Clip.Beta",
       "subtitle": "Manage your clipboard history with ease.",
       "developerName": "Riley Testut",
