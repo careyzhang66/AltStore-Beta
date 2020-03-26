@@ -1,0 +1,41 @@
+{
+  "name": "Unc0ver Source",
+  "identifier": "science.xnu.undecimus",
+  "apps": [
+    {
+      "name": "Unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "Pwn20wn",
+      "subtitle": "iOS torrent client app",
+      "version": "1.7.4.1",
+      "versionDate": "2020-03-24T14:30:00-07:00",
+      "versionDescription": "Fixes and UI Improvements",
+      "downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.3.1/Undecimus-v4.3.1.ipa",
+      "localizedDescription": "iTorrent is a torrent client for iOS with Files app support.",
+      "iconURL": "https://images.opencollective.com/itorrent/0ec0088/logo/256.png",
+      "tintColor": "a1261b",
+      "size": 20132659,
+      "screenshotURLs": [
+        "https://static.appdb.to/images/cydia-1900000455-iphone-1.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-0.png",
+        "https://static.appdb.to/images/cydia-1900000455-iphone-2.png",
+	"https://static.appdb.to/images/cydia-1900000455-iphone-3.png"
+      ]
+    }
+  ],
+  "news": [
+    {
+      "title": "iTorrent Now Available",
+      "identifier": "itorrent-available-download-demo",
+      "caption": "Install iTorrent from the source.",
+      "tintColor": "a1261b",
+      "imageURL": "https://raw.githubusercontent.com/Donut5162/myfirst/master/newsimage2.png",
+      "appID": "com.bittorrent.torrent",
+      "date": "2020-03-24",
+      "notify": false
+    }
+  ],
+  "userInfo": {
+
+  }
+}
