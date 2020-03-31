@@ -17,7 +17,7 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 - Wait a few seconds, then AltStore will be installed to your phone.
 
 # Credits
-- **[Thudner7yoshi](https://twitter.com/Thunder7yoshi)** you can donate at my **[paypal](https://www.paypal.me/Thunder7yoshi)**
+- **[Thudner7yoshi](https://twitter.com/Thunder7yoshi)** you can donate at my **[PayPal](https://www.paypal.me/Thunder7yoshi)**
 - **[CrafterPika](https://twitter.com/CrafterPika)** for the idea and for discovering **[this](https://github.com/CrafterPika/altstore_ipas)**
 - **[Riley Testut](https://twitter.com/rileytestut)** for all his hard work! Go support him through his **[Patreon](https://www.patreon.com/rileytestut)**
 ![](https://i.imgur.com/ItyPORZ.png)
