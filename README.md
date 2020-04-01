@@ -1,6 +1,9 @@
 # AltStore-Beta
 AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yoshi/AltStore-Beta/releases/)**
 
+# Discord Server
+- Feel free to join our **[Discord Server](https://discord.gg/XP4nfJ5)**
+
 # Before Installing:
 - Download the latest version of iTunes directly from **[Apple](http://updates-http.cdn-apple.com/2020/windows/061-63189-20200127-45CC5012-412C-11EA-9F9C-0A2AB8D46CF0/iTunes64Setup.exe)** (not the Microsoft Store).
 - Download the latest version of iCloud directly from **[Apple](http://updates-http.cdn-apple.com/2020/windows/061-61608-20200122-4464F20E-3D7D-11EA-ADA8-880F4463EB08/iCloudSetup.exe)** (not the Microsoft Store).
