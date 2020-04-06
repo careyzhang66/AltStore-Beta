@@ -20,6 +20,9 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 - Wait a few seconds, then AltStore will be installed to your phone.
 
 
+
+
+
 # MacOS
 # Installing
 - Download AltServer for Mac **[Here](https://github.com/Thunder7yoshi/AltStore-Beta/releases/download/v1.3b3-1.3b3/AltServer.Beta.MacOS.zip)**
