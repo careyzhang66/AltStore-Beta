@@ -1,5 +1,5 @@
 # AltStore-Beta
-AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yoshi/AltStore-Beta/releases/tag/v1.3b3-1.3)**
+AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yoshi/AltStore-Beta/releases/tag/v1.3-3)**
 
 # Discord Server
 - If you need help join our **[Discord Server!](https://discord.gg/XP4nfJ5)**
@@ -18,7 +18,6 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 - Enter your **Apple ID** email and password (**NOTE: both email address and password are case sensitive**).
 - Wait a few seconds, then AltStore will be installed to your phone.
 ![](https://i.imgur.com/ItyPORZ.png)
-
 # Credits
 - **[Thunder7yoshi](https://twitter.com/Thunder7yoshi)**
 - **[CrafterPika](https://twitter.com/CrafterPika)**
