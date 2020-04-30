@@ -20,6 +20,6 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 ![](https://i.imgur.com/ItyPORZ.png)
 
 # Credits
-- **[Thunder7yoshi](https://twitter.com/Thunder7yoshi)
-- **[CrafterPika](https://twitter.com/CrafterPika)
-- **[Riley Testut](https://twitter.com/rileytestut)
+- **[Thunder7yoshi](https://twitter.com/Thunder7yoshi)**
+- **[CrafterPika](https://twitter.com/CrafterPika)**
+- **[Riley Testut](https://twitter.com/rileytestut)**
