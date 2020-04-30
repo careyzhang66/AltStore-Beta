@@ -1,5 +1,5 @@
 # AltStore-Beta
-AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yoshi/AltStore-Beta/releases/)**
+AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yoshi/AltStore-Beta/releases/tag/v1.3b3-1.3)**
 
 # Discord Server
 - If you need help join our **[Discord Server!](https://discord.gg/XP4nfJ5)**
