@@ -2,7 +2,7 @@
 AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yoshi/AltStore-Beta/releases/latest)**
 
 # Discord Server
-- If you need help join our **[Discord Server!](https://discord.gg/hUvKFf8)**
+- If you need help join our **[Discord Server!](https://discord.gg/kzPPbsw)**
 
 # Windows 10 - Before Installing:
 - Download the latest version of iTunes directly from **[Apple](http://updates-http.cdn-apple.com/2020/windows/061-63189-20200127-45CC5012-412C-11EA-9F9C-0A2AB8D46CF0/iTunes64Setup.exe)** (not the Microsoft Store).
