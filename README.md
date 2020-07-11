@@ -5,8 +5,8 @@ AltStore Beta - Sideload every iPA - **[Releases](https://github.com/Thunder7yos
 - If you need help join our **[Discord Server!](https://discord.gg/kzPPbsw)**
 
 # Windows 10 - Before Installing:
-- Download the latest version of iTunes directly from **[Apple](https://f000.backblazeb2.com/file/apple-exes/iTunes64Setup.exe)** (not the Microsoft Store).
-- Download the latest version of iCloud directly from **[Apple](https://f000.backblazeb2.com/file/apple-exes/iCloudSetup.exe)** (not the Microsoft Store).
+- Download the latest version of iTunes directly from **[Apple](https://github.com/Thunder7yoshi/Files/raw/master/Apple/iTunes64Setup.exe)** (not the Microsoft Store).
+- Download the latest version of iCloud directly from **[Apple](https://github.com/Thunder7yoshi/Files/raw/master/Apple/iCloudSetup.exe)** (not the Microsoft Store).
 # Installing
 - Download the AltServer Beta from **[Here](https://github.com/Thunder7yoshi/AltStore-Beta/releases/download/v1.3.0.0/AltServer.BETA.rar)**
 - Extract the downloaded “**AltServer.BETA.rar**” file with **[WinRAR](https://www.rarlab.com/rar/winrar-x64-580.exe)**. [The password is "**Thunder7yoshi**"]
